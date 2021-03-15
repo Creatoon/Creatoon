@@ -22,3 +22,6 @@ I'm sophomore at LNCT Bhopal. I am an open-source enthusiast. I am tinkering wit
 - 👯 I’m looking to collaborate on any Open Source Project involving javascript :heart:
 - 💻 I have worked on Ruby on rails, C++, HTML/CSS, Javascript, Nodejs, Expressjs, PostgreSQL, MongoDB, Git, Docker, Kubernentes, Emberjs etc.
 - 💬 Ask me about anything! I am happy to help and guide you.
+
+
+![Raj Aryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Creatoon&count_private=true&show_icons=true&title_color=fff&icon_color=6a9fb5&text_color=9f9f9f&bg_color=151515)
