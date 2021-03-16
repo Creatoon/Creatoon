@@ -25,5 +25,3 @@ I'm sophomore at LNCT Bhopal. I am an open-source enthusiast. I am tinkering wit
 
 
 ![Raj Aryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Creatoon&count_private=true&show_icons=true&title_color=fff&icon_color=6a9fb5&text_color=9f9f9f&bg_color=151515)
-
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Creatoon&layout=compact&langs_count=8&theme=blue-green"/>
