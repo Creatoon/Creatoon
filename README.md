@@ -19,7 +19,7 @@ I'm sophomore at LNCT Bhopal. I am an open-source enthusiast. I am tinkering wit
 
 - 🔭 I’m currently Learning Docker.
 - 👯 I’m looking to collaborate on any Open Source Project involving javascript :heart:
-- 💻 I have worked on Ruby on rails, C++, HTML/CSS, Javascript, Nodejs, Expressjs, PostgreSQL, MongoDB, Git, Docker, Kubernentes, Emberjs etc.
+- 💻 I have worked on React, C++, HTML/CSS, Javascript, Nodejs, Expressjs, PostgreSQL, MongoDB, Git, Emberjs etc.
 - 💬 Ask me about anything! I am happy to help and guide you.
 
 <br />
