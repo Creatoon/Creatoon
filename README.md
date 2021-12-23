@@ -11,13 +11,13 @@
 
 ### Glad to see you here! 🤩
 
-I'm sophomore at LNCT Bhopal. I am an open-source enthusiast. I am tinkering with large codebases from my freshmen year and i love exploring new technologies✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently a capmus lead at Code For Cause 🤓.
+I'm a senior year student at LNCT Bhopal. I am an open-source enthusiast. I am tinkering with large codebases from my freshmen year and i love exploring new technologies✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻.
 
 <br />
 
 ### More about me...
 
-- 🔭 I’m currently Learning Docker.
+- 🔭 I’m currently Learning a programming language solidity & web3js.
 - 👯 I’m looking to collaborate on any Open Source Project involving javascript :heart:
 - 💻 I have worked on React, C++, HTML/CSS, Javascript, Nodejs, Expressjs, PostgreSQL, MongoDB, Git, Emberjs etc.
 - 💬 Ask me about anything! I am happy to help and guide you.
