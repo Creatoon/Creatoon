@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=creatoon&label=Profile%20views&color=0e75b6&style=flat" alt="adi611" /> </p>
-
 <a href="https://www.linkedin.com/in/raj-aryan-singh-498b6a1a5/">
   <img align="left" width="36px" src="https://img.icons8.com/material/50/6a9fb5/linkedin.png" />
 </a>
